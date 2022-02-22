@@ -1,0 +1,7 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+GaussianMixtures = "cc18c42c-b769-54ff-9e2a-b28141a64aae"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
